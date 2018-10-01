@@ -1547,10 +1547,10 @@ body {
 
 #portfolio-projects img {
   width: 110px;
-  margin-right: 30px;
+  /* margin-right: 30px; */
 }
 
-#portfolio-projects table {
+/* #portfolio-projects table {
   float: left;
   margin-top: 20px;
 }
@@ -1562,21 +1562,4 @@ body {
 #portfolio-projects table b {
   font-weight: 700;
 }
-
-
-                        /*<tr style="border-width: 1px">
-                            <td><img src="./imgs/arc.jpg"></td>
-                            <td>
-                                <table style="width: 100%;"><tr><td style="width: 100%; text-align: left;">
-                                <p>Andy Zeng, <b>Shuran Song</b>, Kuan-Ting Yu, Elliott Donlon, Francois R. Hogan, Maria Bauza, Daolin Ma, Orion Taylor, Melody Liu, Eudald Romo, Nima Fazeli, Ferran Alet, Nikhil Chavan Dafle, Rachel Holladay, Isabella Morona, Prem Qu Nair, Druck Green, Ian Taylor, Weber Liu, Thomas Funkhouser, Alberto Rodriguez <br>
-                                <a href="https://arxiv.org/pdf/1710.01330.pdf"><b>Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching</b></a><br> 
-                                    <a href="https://arxiv.org/pdf/1710.01330.pdf">Paper</a>&nbsp;&#183;&nbsp;
-                                    <a href="http://arc.cs.princeton.edu">Project Webpage</a>&nbsp;&#183;&nbsp;
-                                    <a href="https://github.com/andyzeng/arc-robot-vision">Code (Github)</a>
-                                    <!-- <a href="papers/zeng2017robotic.bib">BibTeX</a></h3> -->
-                                </p>
-                                </td><td style="width: 10px;">
-                                </td>
-                                </tr></table>           
-                            </td>
-                        </tr>*/
+ */
