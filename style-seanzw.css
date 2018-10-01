@@ -43,7 +43,7 @@
 }
 
 #all-photo {
-  margin-top: 50px;
+  margin-top: 100px;
   float: right;
 }
 
@@ -53,6 +53,6 @@
 
 #all-photo img {
   width: 220px;
-  margin-top: 20px;
+  margin-top: 0px;
   /*border-radius: 50%;*/
 }
